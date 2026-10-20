@@ -1,4 +1,4 @@
-# Hai, saya HII Tie Sung 👋
+# Hai, saya Hii Tie Sung 👋
 
 ### 👨‍💻 Mengenai Saya
 - 🔭 Saya kini sedang belajar: [Masukkan perkara yang anda belajar, cth: Web Development / Python]
